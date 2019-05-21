@@ -1,0 +1,7 @@
+D:\Needed\Software Development\Portfolio\C#_Adapter_Pattern_Demo\CS_3450_Assignment07_NDA\obj\Debug\Adapter_Pattern_Demo.csprojAssemblyReference.cache
+D:\Needed\Software Development\Portfolio\C#_Adapter_Pattern_Demo\CS_3450_Assignment07_NDA\obj\Debug\Adapter_Pattern_Demo.csproj.CoreCompileInputs.cache
+D:\Needed\Software Development\Portfolio\C#_Adapter_Pattern_Demo\CS_3450_Assignment07_NDA\bin\Debug\Adapter_Pattern_Demo.exe.config
+D:\Needed\Software Development\Portfolio\C#_Adapter_Pattern_Demo\CS_3450_Assignment07_NDA\bin\Debug\Adapter_Pattern_Demo.exe
+D:\Needed\Software Development\Portfolio\C#_Adapter_Pattern_Demo\CS_3450_Assignment07_NDA\bin\Debug\Adapter_Pattern_Demo.pdb
+D:\Needed\Software Development\Portfolio\C#_Adapter_Pattern_Demo\CS_3450_Assignment07_NDA\obj\Debug\Adapter_Pattern_Demo.exe
+D:\Needed\Software Development\Portfolio\C#_Adapter_Pattern_Demo\CS_3450_Assignment07_NDA\obj\Debug\Adapter_Pattern_Demo.pdb
